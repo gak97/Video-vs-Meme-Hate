@@ -1,6 +1,6 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-a-robust-framework-for-multimodal/hate-speech-detection-on-hatemm)](https://paperswithcode.com/sota/hate-speech-detection-on-hatemm?p=towards-a-robust-framework-for-multimodal)
-
 # Hate Speech Detection in Videos and Memes 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2510.01010-b31b1b.svg)](https://arxiv.org/abs/2502.07138)
 
 This repository contains code for detecting hate speech in videos and memes using multimodal architectures. The project includes Simple Embedding Fusion (aka Simple Fusion) and MO-Hate architectures.
 
@@ -116,14 +116,17 @@ For testing either on random or specific images from the test set, follow these 
 
 ## Citation
 ```
-@misc{koushik2025robustframeworkmultimodalhate,
-      title={Towards a Robust Framework for Multimodal Hate Detection: A Study on Video vs. Image-based Content}, 
-      author={Girish A. Koushik and Diptesh Kanojia and Helen Treharne},
-      year={2025},
-      eprint={2502.07138},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2502.07138}, 
+@inproceedings{10.1145/3701716.3718382,
+author = {Koushik, Girish A. and Kanojia, Diptesh and Treharne, Helen},
+title = {Towards a Robust Framework for Multimodal Hate Detection: A Study on Video vs. Image-based Content},
+year = {2025},
+isbn = {9798400713316},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3701716.3718382},
+pages = {2014–2023},
+location = {Sydney NSW, Australia},
+series = {WWW '25}
 }
 ```
 
